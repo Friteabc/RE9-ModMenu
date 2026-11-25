@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+test_*.py
+tests/
+backups/
+diagnostics/
+_to_delete/
+dist/
+*.log
+*.dmp
+package/reframework/data/

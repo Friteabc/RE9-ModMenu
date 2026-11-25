@@ -1,0 +1,18 @@
+RE9 Menu
+Copyright (c) 2026 friteabc
+Creator / Attribution: friteabc
+
+The original code, assets and documentation of RE9 Menu are licensed under
+Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+License: https://creativecommons.org/licenses/by/4.0/
+Full legal terms: https://creativecommons.org/licenses/by/4.0/legalcode.en
+
+Attribution: RE9 Menu by friteabc, licensed under CC BY 4.0.
+When sharing the original or a modified version, retain this credit,
+include the license link, and indicate any modifications.
+
+Third-party components, including REFramework and files in dependencies/,
+are excluded from this license grant and retain their own licenses.
+
+Provided as-is, without warranties, subject to the full license terms.
